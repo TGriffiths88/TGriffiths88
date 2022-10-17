@@ -1,16 +1,15 @@
-### Hi there 👋
+  __________  __  ___   __________  ____________________________  _______
+ /_  __/ __ \/  |/  /  / ____/ __ \/  _/ ____/ ____/  _/_  __/ / / / ___/
+  / / / / / / /|_/ /  / / __/ /_/ // // /_  / /_   / /  / / / /_/ /\__ \ 
+ / / / /_/ / /  / /  / /_/ / _, _// // __/ / __/ _/ /  / / / __  /___/ / 
+/_/  \____/_/  /_/   \____/_/ |_/___/_/   /_/   /___/ /_/ /_/ /_//____/ 
 
-<!--
-**TGriffiths88/TGriffiths88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 Developer at [Mutual](https://mutual.agency)
+- 🤘 Drummer
+- 👶🏼 Father of one
+- 📷 Ex pro photogapher
+- 🌞 Based in sunny St Leonards on Sea, UK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working with:
+- Nextjs, React, Craft, Sanity, trpc, TailwindCSS
